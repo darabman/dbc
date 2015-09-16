@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+proj/cb/bin/
+proj/cb/obj/
+resource/testanim.gif
+resource/test_slides/
